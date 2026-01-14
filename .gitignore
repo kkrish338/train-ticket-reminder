@@ -1,0 +1,32 @@
+# Buildozer build artifacts
+.buildozer/
+bin/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,3 @@
+# Placeholder for app icon
+# Icon should be 512x512 PNG for Android
+# Place your icon.png file here

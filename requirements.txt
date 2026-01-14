@@ -1,0 +1,2 @@
+# Requirements for desktop development/testing
+kivy[base]>=2.2.0
