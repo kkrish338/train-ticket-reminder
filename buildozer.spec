@@ -26,6 +26,9 @@ requirements = python3,kivy,pyjnius,android,sqlite3
 # Sets custom source for any requirements with recipes
 # requirements.source.kivy = ../../kivy
 
+# (str) Bootstrap to use for android builds
+p4a.bootstrap = sdl2
+
 # (list) Garden requirements
 #garden_requirements =
 
